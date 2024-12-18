@@ -2,6 +2,8 @@
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
+[![build-workflow](https://github.com/ram0973/hexlet-ci-app/actions/workflows/build-workflow.yml/badge.svg)](https://github.com/ram0973/hexlet-ci-app/actions/workflows/build-workflow.yml)
+
 ## System requirements
 
 * NodeJS >= 18
